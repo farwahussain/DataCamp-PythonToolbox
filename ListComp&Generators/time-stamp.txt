@@ -1,0 +1,27 @@
+    contributors  coordinates                      created_at                                           entities                                  extended_entities  ...  \
+0            NaN          NaN  Tue Mar 29 23:40:17 +0000 2016  {'hashtags': [], 'user_mentions': [{'screen_na...  {'media': [{'sizes': {'large': {'w': 1024, 'h'...  ...}}}]} }]}  
+1            NaN          NaN  Tue Mar 29 23:40:17 +0000 2016  {'hashtags': [{'text': 'cruzsexscandal', 'indi...  {'media': [{'sizes': {'large': {'w': 500, 'h':...  ...}}}]} }]} 
+2            NaN          NaN  Tue Mar 29 23:40:17 +0000 2016  {'hashtags': [], 'user_mentions': [], 'symbols...                                                NaN  ...}   
+3            NaN          NaN  Tue Mar 29 23:40:17 +0000 2016  {'hashtags': [], 'user_mentions': [], 'symbols...                                                NaN  ... }  
+4            NaN          NaN  Tue Mar 29 23:40:17 +0000 2016  {'hashtags': [], 'user_mentions': [{'screen_na...                                                NaN  ... }]} 
+..           ...          ...                             ...                                                ...                                                ...  ...  
+95           NaN          NaN  Tue Mar 29 23:40:19 +0000 2016  {'hashtags': [], 'user_mentions': [{'screen_na...                                                NaN  ...  } 
+96           NaN          NaN  Tue Mar 29 23:40:19 +0000 2016  {'hashtags': [], 'user_mentions': [], 'symbols...                                                NaN  ...  }]}
+97           NaN          NaN  Tue Mar 29 23:40:19 +0000 2016  {'hashtags': [{'text': 'NeverTrump', 'indices'...                                                NaN  ...  } 
+98           NaN          NaN  Tue Mar 29 23:40:19 +0000 2016  {'hashtags': [], 'user_mentions': [], 'symbols...                                                NaN  ...  }]} 
+99           NaN          NaN  Tue Mar 29 23:40:19 +0000 2016  {'hashtags': [], 'user_mentions': [{'screen_na...                                                NaN  ...  }]} 
+
+                                               source                                               text   timestamp_ms  truncated                                               user  
+0   <a href="http://twitter.com" rel="nofollow">Tw...  RT @bpolitics: .@krollbondrating's Christopher...  1459294817758      False  {'utc_offset': 3600, 'profile_image_url_https'...}  
+1   <a href="http://twitter.com" rel="nofollow">Tw...  RT @HeidiAlpine: @dmartosko Cruz video found.....  1459294817810      False  {'utc_offset': None, 'profile_image_url_https'... } 
+2   <a href="http://www.facebook.com/twitter" rel=...  Njihuni me Zonjën Trump !!! | Ekskluzive https...  1459294817917      False  {'utc_offset': 7200, 'profile_image_url_https'... } 
+3   <a href="http://twitter.com/download/android" ...  Your an idiot she shouldn't have tried to grab...  1459294817903      False  {'utc_offset': None, 'profile_image_url_https'... } 
+4   <a href="http://twitter.com/download/iphone" r...  RT @AlanLohner: The anti-American D.C. elites ...  1459294817851      False  {'utc_offset': -18000, 'profile_image_url_http... } 
+..                                                ...                                                ...            ...        ...                                                ... 
+95  <a href="http://twitter.com/download/iphone" r...  RT @claytoncubitt: Stop asking Bernie supporte...  1459294819805      False  {'utc_offset': None, 'profile_image_url_https'... } 
+96  <a href="http://twitter.com" rel="nofollow">Tw...  Kasich is gonna fuck this up for Ted Cruz  htt...  1459294819766      False  {'utc_offset': -18000, 'profile_image_url_http...  }
+97  <a href="http://twitter.com/download/iphone" r...  RT @akaMaude13: Seriously can't make this up. ...  1459294819802      False  {'utc_offset': None, 'profile_image_url_https'... } 
+98  <a href="http://twitter.com" rel="nofollow">Tw...  Kasich is gonna fuck this up for Ted Cruz  htt...  1459294819766      False  {'utc_offset': -18000, 'profile_image_url_http... } 
+99  <a href="http://twitter.com/download/iphone" r...  @marklevinshow try reporting this truth. https...  1459294819769      False  {'utc_offset': -21600, 'profile_image_url_http... } 
+
+[100 rows x 31 columns]
